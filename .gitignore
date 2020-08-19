@@ -1,0 +1,12 @@
+# Terraform
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+
+# Artifact
+builds/
+
+# IDE
+.idea/
+.vscode/
